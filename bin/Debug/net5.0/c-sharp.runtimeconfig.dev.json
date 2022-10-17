@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nheya/.dotnet/store/|arch|/|tfm|",
+      "/home/nheya/.nuget/packages"
+    ]
+  }
+}
